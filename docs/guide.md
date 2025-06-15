@@ -1,1 +1,1 @@
-# Guide\n\nThis is a guide.
+# Guide...This is a user manual page.
