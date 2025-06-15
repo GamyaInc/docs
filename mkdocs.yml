@@ -1,0 +1,7 @@
+site_name: Gamya
+nav:
+  - Home: index.md
+  - Guide: guide.md
+theme:
+  name: material
+
